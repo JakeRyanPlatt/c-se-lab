@@ -1,0 +1,1 @@
+typedef int event_bus_placeholder_t;

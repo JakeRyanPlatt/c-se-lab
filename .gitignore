@@ -1,0 +1,22 @@
+# CLion IDE settings
+.idea/
+
+# CMake & CLion build directories
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Testing/
+
+# Compiled object files, static libraries, and executables
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
